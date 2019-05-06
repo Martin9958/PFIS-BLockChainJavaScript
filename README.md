@@ -8,3 +8,4 @@ Para probar la efectividad del proyecto realizado, en el archivo blockChainManag
 Para ejecutar el proyecto es necesario desde la terminal estar en el proyecto, e ingresar el comando : node blockChainManager.js , este comando ejecutara la funcionalidad y permitira evidenciar el resultado del ejercicio.
 
 ### Foto del Resultado
+![resultado](https://github.com/Martin9958/PFIS-BLockChainJavaScript/blob/master/img/Captura%20de%20pantalla%20de%202019-05-05%2021-31-20.png)
